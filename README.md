@@ -3,4 +3,4 @@ Click here for Ingredients:
 [Ingredients](https://github.com/AkshataPuranikTeacher/p26/blob/main/ingredients.md)
 
 Click here for Recipe:
-[Quick Recipe](https://github.com/user/repo/blob/branch/ingredients.md)
+[Quick Recipe](https://github.com/AkshataPuranikTeacher/p26/blob/main/recipe.md)
